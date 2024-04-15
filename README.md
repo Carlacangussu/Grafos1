@@ -24,10 +24,10 @@ Screenshots de funcionamento
 ![1835](/Trab1/screenshots/promessas.png)
 
 ### 1128 - Ir e Vir
-![1128](/Grafos1/Trab1/screenshots/irevir.png)
+![1128](/Trab1/screenshots/irevir.png)
 
 ### 1082 - Ir e Vir
-![1128](/Grafos1/Trab1/screenshots/componentes.png)
+![1128](/Trab1/screenshots/componentes.png)
 
 ## Instalação 
 **Linguagem**: C<br>
