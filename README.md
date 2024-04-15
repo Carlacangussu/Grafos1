@@ -18,10 +18,10 @@ O objetivo do projeto é responder algumas questões disponíveis em juízes onl
 Screenshots de funcionamento
 
 ### 1081 - DFSr - Hierarquia de Profundidade
-![1081](../Grafos1/Trab1/screenshots/DFSR.png)
+![1081](/Trab1/screenshots/DFSR.png)
 
 ### 1835 - Promessa de Campanha
-![1835](../Grafos1/Trab1/screenshots/promessas.png)
+![1835](/Trab1/screenshots/promessas.png)
 
 ## Instalação 
 **Linguagem**: C<br>
