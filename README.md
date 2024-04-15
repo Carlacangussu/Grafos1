@@ -15,18 +15,31 @@
 O objetivo do projeto é responder algumas questões disponíveis em juízes online sobre grafos, as questões serão de média e alta complexidade.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Screenshots de funcionamento
+
+### 1081 - DFSr - Hierarquia de Profundidade
+![1081](/Grafos1/Trab1/screenshots/DFSR.png)
+
+### 1835 - Promessa de Campanha
+![1835](/Grafos1/Trab1/screenshots/promessas.png)
 
 ## Instalação 
 **Linguagem**: C<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Para a utilização do projeto, deve-se ter acesso ao compilador de linguagem C gcc.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Cada questão foi separada em uma pasta diferente e para executar os códigos de cada uma das questões é necessário a execução dos 3 seguintes comandos adaptados ao nome do arquivo de cada questão. Ex:
+
+```sh
+    cd Trab1/Promessa\ de\ Campanha/
+    gcc -o 1835 1835.c
+    ./1835 < teste.txt
+```
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para acessar os enunciados é necessário criar um login na plataforma Beecrowd, os links de cada enunciado estão presentes em:
 
-
-
-
+- [1081 - DFSr - Hierarquia de Profundidade](https://judge.beecrowd.com/pt/problems/view/1081)
+- [1082 - Componentes Conexos](https://judge.beecrowd.com/pt/problems/view/1082)
+- [1128 - Ir e Vir](https://judge.beecrowd.com/pt/problems/view/1128)
+- [1835 - Promessa de Campanha](https://judge.beecrowd.com/pt/problems/view/1835)
