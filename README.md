@@ -54,4 +54,5 @@ Para acessar os enunciados é necessário criar um login na plataforma Beecrowd,
 
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
 
-[1835 - Promessa de Campanha](https://drive.google.com/file/d/1nikmmKJwn09c7oNxkbALfDSq49bHWIjt/view?usp=sharing)
+- [1835 - Promessa de Campanha](https://drive.google.com/file/d/1nikmmKJwn09c7oNxkbALfDSq49bHWIjt/view?usp=sharing)
+- [1082 - Componentes conexas e 1128 - Ir e Vr](https://unbbr.sharepoint.com/sites/Contaprivada/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20240415_224046-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1)
