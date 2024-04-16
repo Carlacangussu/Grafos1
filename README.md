@@ -2,7 +2,7 @@
 
 # Grafos 1 - lista de questões
 
-**Número da Lista**: 1<br>
+**Número da Lista**: 13<br>
 **Conteúdo da Disciplina**: FGA0124 Projeto de Algoritmos<br>
 
 ## Alunos
@@ -26,7 +26,7 @@ Screenshots de funcionamento
 ### 1128 - Ir e Vir
 ![1128](/Trab1/screenshots/irevir.png)
 
-### 1082 - Ir e Vir
+### 1082 - Componentes Conexos
 ![1128](/Trab1/screenshots/componentes.png)
 
 ## Instalação 
@@ -49,3 +49,9 @@ Para acessar os enunciados é necessário criar um login na plataforma Beecrowd,
 - [1082 - Componentes Conexos](https://judge.beecrowd.com/pt/problems/view/1082)
 - [1128 - Ir e Vir](https://judge.beecrowd.com/pt/problems/view/1128)
 - [1835 - Promessa de Campanha](https://judge.beecrowd.com/pt/problems/view/1835)
+
+## Apresentações de resoluções
+
+Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
+
+[1835 - Promessa de Campanha](https://drive.google.com/file/d/1nikmmKJwn09c7oNxkbALfDSq49bHWIjt/view?usp=sharing)
